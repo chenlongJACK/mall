@@ -1,4 +1,11 @@
-#应用端口
+#应用
 server:
   port: 9001
   context-path: /mall_user
+#数据源
+spring:
+  datasource:
+    driver-class-name:
+    url:
+    username:
+    password:
